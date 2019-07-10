@@ -12,7 +12,7 @@ A Task Force report is shared with the Executive Council upon completion of the 
 
 The current mechanism for creation of a Task Force is for the Executive Council or staff to identify needs for information gathering or updates in current policies, guidelines or products, and collaboratively draft a Charter with relevant members of the community. There is also the opportunity to have a mechanism through this repository for people to propose Task Forces, but that mechanism is not yet developed. If you are interested in proposing or leading a Task Force, please get in touch with the Executive Council at [carpentries-executive-council@carpentries.org](mailto:carpentries-executive-council@carpentries.org).
 
-This is a repository for our Task Force Charters and project boards.
+This is a repository for our Task Force Charters and associated GitHub project boards.
 
 ## 2019 Task Forces
 
