@@ -16,8 +16,12 @@ This is a repository for our Task Force Charters.
 
 ## 2019 Task Forces
 
+- Incidents Outside The Carpentries Code of Conduct Committee
+
 ## 2018 Task Forces
 
-- The Carpentries Code of Conduct Reporting Guidelines and Enforcement Guidelines Task Force
+- The Carpentries Code of Conduct [Reporting Guidelines and Enforcement Guidelines Task Force](https://github.com/carpentries/coc-guidelines-taskforce)
+
+- The Carpentries [Instructor Feedback Report Working Group](https://github.com/carpentries/instructor-feedback)
 
 
