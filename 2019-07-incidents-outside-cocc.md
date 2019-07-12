@@ -1,4 +1,5 @@
-## Task Force Charter: Recommendations for incidents outside The Carpentries Code of Conduct committee
+## Task Force Charter: Recommendations for incidents outside the scope of The Carpentries Code of Conduct committee
+
 Approved:  
 Completed:  
 
