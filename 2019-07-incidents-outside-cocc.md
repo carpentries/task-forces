@@ -1,4 +1,4 @@
-## Task Force Charter: Recommendations for Incidents Outside the Current Scope of The Carpentries Code of Conduct Committee
+## Task Force Charter: Recommendations for Incidents outside the mandate of The Carpentries Code of Conduct committee
 
 Approved: 2019-07-15  
 Completed:  
