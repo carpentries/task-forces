@@ -27,7 +27,7 @@ The following deliverables are the intended outcomes of this task force:
   - Recommendations that can be used to develop support structures and/or draft guidelines for incidents that happen outside the mandate of The Carpentries Code of Conduct committee.
   - Recommendations that can be used to develop support structures and/or draft guidelines for handling incidents that happen within Carpentries spaces that are either not reported or are not yet incidents.
   - Report of task force meetings/discussions and recommendations to be shared with the community and Executive Council.
-- Regularly and consistently updating the public [GitHub project](https://github.com/carpentries/task-forces) on the status of this work. 
+- Regularly and consistently updating the public [GitHub project](https://github.com/carpentries/task-forces/projects/1) on the status of this work. 
 
 __Task Force Members__  
 To complete this charge, we will solicit 2-3 task force members from within The Carpentries community having any combination of the following experience and expertise:
