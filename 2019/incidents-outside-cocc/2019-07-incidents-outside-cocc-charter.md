@@ -1,7 +1,7 @@
 ## Task Force Charter: Recommendations for Incidents outside the mandate of The Carpentries Code of Conduct committee
 
 Approved: 2019-07-15  
-Completed:  
+Completed: 2019-09-19  
 
 __Context__  
 With a growing community and an increasing number of Carpentries spaces (online and in-person), The Carpentries is encountering cases where a response to incidents either in or outside of Carpentries spaces may be appropriate, but are outside our formal guidelines and processes. Our Code of Conduct (CoC) and Code of Conduct Committee are now quite mature and in operation for incidents that fall within its mandate. There is less clarity around incidents outside the Code of Conduct committee’s current mandate, including incidents that may have occurred outside of Carpentries spaces, incidents that happen within Carpentries spaces that are either not reported or are not yet incidents, or where people would like to share information or get feedback, rather than formally report an incident. These incidents may impact the ability of members to feel safe working in our community. We want to respond to these events in a timely manner and in a consistent way that balances transparency, confidentiality and legal considerations. 
