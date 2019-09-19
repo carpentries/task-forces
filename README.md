@@ -16,7 +16,7 @@ This is a repository for our Task Force Charters and associated GitHub project b
 
 ## 2019 Task Forces
 
-- Incidents Outside The Carpentries Code of Conduct Committee
+- [Incidents Outside The Carpentries Code of Conduct Committee](https://github.com/carpentries/task-forces/tree/master/2019/incidents-outside-cocc)
 
 ## 2018 Task Forces
 
