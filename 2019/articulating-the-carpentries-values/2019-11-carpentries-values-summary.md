@@ -1,10 +1,10 @@
 ## Acknowledgement
 
-A big thank you to The Carpentries community, who are the embodiment of these values outlined above, and who responded to our call for input, providing invaluable insight and elaborate recommendations that made it possible for us to pinpoint these nine values for The Carpentries.
+A big thank you to The Carpentries community, who are the embodiment of the values outlined above, and who responded to our call for input, providing invaluable insight and elaborate recommendations that made it possible for us to pinpoint these nine values for The Carpentries.
 
 We are also indebted to The Carpentries team and Executive Council for interrogating our process, reviewing our progress, editing our content and keeping the Task Force accountable for the duration of this project.
 
-This project came together thanks to the tireless efforts of  Amy Hodge from The Executive Council, Dr. Kari L. Jordan and Tracy Teal who served with me on the Values Project Task Force in Q3 and Q4 2019.
+This project came together thanks to the tireless efforts of  Amy Hodge from The Executive Council, Kari L. Jordan and Tracy Teal who served with me (Serah Rono) on the Values Project Task Force in Q3 and Q4 2019.
 
 We are also grateful to Lou Woodley,  Director of the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org), whose expertise and resources provided guidance as we worked on this project.
 
@@ -116,13 +116,13 @@ We help people build knowledge by creating a conducive environment for the excha
 
 #### Value All Contributions
 
-We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem that adhere to The Carpentries Code of Conduct.
+We value all contributions by individuals and entities to our community, code, lessons and broader ecosystem as long as those contributions adhere to The Carpentries Code of Conduct.
 
 **We are..**
 
 #### Always Learning
 
-We value a growth mindset in all that we do and strive for continuous improvement, evolving ourselves and our methodologies, being receptive to feedback, responsive, curious, and eager to learn. 
+We value a growth mindset in all that we do and strive for continuous improvement, evolving ourselves and our methodologies, being responsive, curious, receptive to feedback, and eager to learn.  
 
 #### Inclusive of All
 
