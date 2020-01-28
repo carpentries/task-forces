@@ -4,9 +4,9 @@
 
 [The Sponsorship Exploration Task Force](https://github.com/carpentries/task-forces/blob/master/2019/sponsorship-exploration/sponsorship-exploration-project-charter.md) has been evaluating The Carpentries approach to Sponsorship and the CarpentryCon 2020 Budget Subcommittee has been developing a model for sponsorship for CarpentryCon 2020.
 
-While, overall we are thinking about Sponsorship for The Carpentries organisation, the Task Force has agreed that rather than starting with organisational sponsorship, we should pilot a sponsorship approach for CarpentryCon 2020.
+While, overall we are thinking about Sponsorship for The Carpentries organisation, the Task Force has agreed that rather than starting with organisational sponsorship, we should pilot a sponsorship approach for CarpentryCon 2020. This report is meant to be a resource for those involved in the developing and piloting this approach, with general recommendations from our experience, research and perspective. It is not intended to be fully comprehensive, and we expect that there will be additional issues and approaches to consider as the model develops.  
 
-There are a few elements to consider for Sponsorship, with our recommendations for each component outlined below
+There are a few elements to consider for Sponsorship, with our recommendations for each component outlined below. 
 
 - Sponsorship levels and what will be included at each level
 - The process for people applying for or requesting to sponsor the event
