@@ -77,4 +77,4 @@ These are a few suggestions, but the evaluation approach should be developed in 
 - Was the rubric useful in thinking about alignment with our values?
 - Any adaptation needed for the Sponsorship Policy or agreement?
 - What was community feedback around sponsorship? Did we get any positive or negative comments about our choices of sponsoring organisations or process?
-- Did companies have any feedback about sponsorship generally? Did they have positive or negative comments about being a sponsor?
+- Did organisations have any feedback about sponsorship generally? Did they have positive or negative comments about being a sponsor?
