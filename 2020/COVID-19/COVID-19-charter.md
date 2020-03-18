@@ -1,9 +1,9 @@
 ## Task Force Charter: COVID-19 Response Task Force
 
-Approval date:  17 March, 2020
-Task Force charter finalized: 20 March, 2020
-Task Force starts work: 23 March, 2020
-Completion date: 1 April, 2020
+Approval date:  17 March, 2020  
+Task Force charter finalized: 20 March, 2020  
+Task Force starts work: 23 March, 2020  
+Completion date: 1 April, 2020  
 
 ### Context
 With the COVID-19 pandemic limiting travel and in-person meetings, our existing systems for delivering two-day in-person workshops are no longer meeting the needs of our community. Our community members have already begun informally sharing their strategies and tips for teaching workshops online, and online instruction is likely to be the norm for some months. The key priority for our Core Team needs to be supporting our community in shifting from in-person to virtual instruction. 
