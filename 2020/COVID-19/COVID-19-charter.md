@@ -23,3 +23,5 @@ The objective of this task force is to develop a plan to pilot online instructio
 * SherAaron Hurt (Workshop Administration Team Lead)
 * Serah Njambi Rono (Community Development Team Lead)
 * Karen Word (Instructor Training Team Lead)
+* Juan Steyn (Executive Council Liaison)
+* Elizabeth Wickes (Secondary Executive Council Liaison)
