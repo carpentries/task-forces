@@ -38,3 +38,10 @@ To complete this charge, we will solicit 2-3 task force members from within The 
 - Conflict resolution experience
 - Having worked served on a task force
 - Geographic and language diversity
+
+The following individuals served as members of this task force:
+- Samantha Ahern
+- Karen Cranston
+- Christopher Felker
+- Kari L. Jordan
+- Luca Di Stasio
