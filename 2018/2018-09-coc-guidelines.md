@@ -41,3 +41,8 @@ The following deliverables are the intended outcomes of this task force:
 1. Revised enforcement manual and reporting guidelines in The Carpentries handbook including update log.
 2. Blog post summary of task force meetings/discussions with release of enforcement manual and reporting guidelines.
 3. Incident response checklist to be added to The Carpentries handbook along with revised enforcement manual and reporting guidelines. 
+
+__Task Force Members__
+- Kari L. Jordan
+- Tracy Teal
+- Simon Waldman
