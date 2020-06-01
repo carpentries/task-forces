@@ -22,10 +22,6 @@ To truly be reflective of the community however, it’s important that broad com
   - Use the themes to create values statements. If themes from community match those and from team and Executive Council feedback, use alpha draft values statements as a starting place.
 - Generate more community engagement and enthusiasm and buy-in through the values that are created, representative of a real set of shared values.
 
-
-
-
-
 ### Deliverables
 
 - Blog posts with questions for the community during development of values
@@ -35,7 +31,7 @@ To truly be reflective of the community however, it’s important that broad com
 
 ### Task Force Members
 
-Kari Jordan<br/>
-Amy Hodge<br/>
-Serah Njambi Rono<br/>
-Tracy Teal
+- Kari L. Jordan<br/>
+- Amy Hodge<br/>
+- Serah Njambi Rono<br/>
+- Tracy Teal
