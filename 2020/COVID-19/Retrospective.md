@@ -33,18 +33,18 @@ In what follows is the asynchronous retrospective by the Task Force Members. Thu
 
 #### What went well?
 
-![COVID-19 Task Force Retrospective on what went well](Images/Whatwentwell.png "What went well?")
+![COVID-19 Task Force retrospective on what went well](Images/Whatwentwell.png "What went well?")
 
 
 #### What did not go well?
 
 
-![COVID-19 Task Force Retrospective on what did not go well](Images/Whatdidnotgowell.png "What did not go well?")
+![COVID-19 Task Force retrospective on what did not go well](Images/Whatdidnotgowell.png "What did not go well?")
 
 
 #### Other?
 
-![COVID-19 Task Force additional feedback ](Images/Other.png "Other")
+![COVID-19 Task Force retrospect on other additional feedback]m(Images/Other.png "Other")
 
 
 ## Recommendations for future Task Forces
