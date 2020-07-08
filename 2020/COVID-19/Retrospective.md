@@ -33,23 +33,19 @@ In what follows is the asynchronous retrospective by the Task Force Members. Thu
 
 #### What went well?
 
-![COVID-19 Task Force Retrospective on what went well]({{ site.urlimg }}/task-forces/2020/COVID-19/Images/Whatwentwell.png)
-_COVID-19 Task Force Retrospective on what went well._
-
+![COVID-19 Task Force Retrospective on what went well](task-forces/2020/COVID-19/Images/Whatwentwell.png)
 
 
 #### What did not go well?
 
 
-![COVID-19 Task Force Retrospective on what did not go well]({{ site.urlimg }}/task-forces/2020/COVID-19/Images/Whatdidnotgowell.png)
-_COVID-19 Task Force Retrospective on what did not go well._
-
+![COVID-19 Task Force Retrospective on what did not go well](task-forces/2020/COVID-19/Images/Whatdidnotgowell.png)
 
 
 #### Other?
 
-![COVID-19 Task Force additional feedback ]({{ site.urlimg }}/task-forces/2020/COVID-19/Images/Other.png)
-_COVID-19 Task Force additional feedback._
+![COVID-19 Task Force additional feedback ](task-forces/2020/COVID-19/Images/Other.png)
+
 
 ## Recommendations for future Task Forces
 - More details with regards to deliverables might be needed for sufficient clarification (this might include ways to sort through resources etc),
