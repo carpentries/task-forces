@@ -44,7 +44,7 @@ In what follows is the asynchronous retrospective by the Task Force Members. Thu
 
 #### Other?
 
-![COVID-19 Task Force additional feedback ](task-forces/2020/COVID-19/Images/Other.png)
+![COVID-19 Task Force additional feedback ](Images/Other.png)
 
 
 ## Recommendations for future Task Forces
