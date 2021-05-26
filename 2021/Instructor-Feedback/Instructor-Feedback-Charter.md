@@ -27,6 +27,7 @@ Develop recommendations* for each Team to address negative feedback that we have
 
 ### Task Force Members
 
--<br/>
--<br/>
--<br/>
+- Kelly Barnes, Instructor Training Team
+- Sher! Hurt, Workshop Adminstration Team
+- Angelique Trusler, Community Developement Team
+
