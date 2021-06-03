@@ -26,6 +26,7 @@ __Examples:__
 
 ### Task Force Members
 
--<br/>
--<br/>
--<br/>
+
+- Kelly Barnes, Instructor Training Team
+- Sher! Hurt, Workshop Adminstration Team
+- Angelique Trusler, Community Developement Team
