@@ -16,6 +16,9 @@ The current mechanism for creation of a Task Force is for the Executive Council 
 
 This is a repository for our Task Force Charters and associated GitHub project boards.
 
+## 2021 Task Forces
+- [Instructor Feedback](https://github.com/carpentries/task-forces/tree/master/2021/Instructor-Feedback)
+
 ## 2020 Task Forces
 - [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/tree/master/2020/COVID-19)
 
