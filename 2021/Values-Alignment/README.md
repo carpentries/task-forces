@@ -1,1 +1,1 @@
-This folder contains taskforce documents for the Instructor Feedback Taskforce
+This folder contains taskforce documents for the Values Alignment Taskforce
