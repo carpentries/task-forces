@@ -18,6 +18,7 @@ This is a repository for our Task Force Charters and associated GitHub project b
 
 ## 2021 Task Forces
 - [Instructor Feedback](https://github.com/carpentries/task-forces/tree/master/2021/Instructor-Feedback)
+- [Values Alignment](https://github.com/carpentries/task-forces/tree/master/2021/Values-Alignment)
 
 ## 2020 Task Forces
 - [COVID-19 Response Task Force](https://github.com/carpentries/task-forces/tree/master/2020/COVID-19)
