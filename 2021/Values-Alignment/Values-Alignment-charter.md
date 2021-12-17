@@ -17,10 +17,10 @@ The objective of this Task Force is to deliver a set of recommendations - a [‘
 
 
 ### Task Force Members
-- Aleksandra Nenadic, Executive Council Member
+- Aleksandra Nenadic, Software Sustainability Institute & Executive Council Member
 - Nick Sorros & Matt Upson, MantisNLP 
 - Yo Yehudi, Wellcome Trust & Carpentries Instructor
-- Jez Cope, Software Sustainability Institute & Carpentries Instructor
+- Jez Cope, British Library & Carpentries Instructor
 - Russatta Buford, DataKind
 - Talisha Sutton-Kennedy, Carpentries Core Team-Business Team
 
