@@ -1,1 +1,3 @@
-This folder contains taskforce documents for 2022.
+## README
+
+The following folder contains task force documents from 2022.
