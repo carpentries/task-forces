@@ -16,6 +16,10 @@ The current mechanism for creation of a Task Force is for the Executive Council 
 
 This is a repository for our Task Force Charters and associated GitHub project boards.
 
+## 2022 Task Forces
+- [Project Planning]()
+- [Fiscal Sponsorship Transition]()
+
 ## 2021 Task Forces
 - [Instructor Feedback](https://github.com/carpentries/task-forces/tree/master/2021/Instructor-Feedback)
 - [Values Alignment](https://github.com/carpentries/task-forces/tree/master/2021/Values-Alignment)
