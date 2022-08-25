@@ -1,3 +1,3 @@
-## README  
-Taskforces for 2021
+## README
 
+The following folder contains task force documents from 2021.
