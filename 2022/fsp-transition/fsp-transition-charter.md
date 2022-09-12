@@ -35,8 +35,9 @@ The objective of this task force is to plan and implement the roadmap to transit
 - Kari L. Jordan, Executive Director
 - Erin Becker, Associate Director
 - Michael Smith, Executive Council Treasurer
-- Amanda Steele, Director of Fundraising
 - John Chodacki, Executive Council Member
+- Amanda Steele, Director of Fundraising
 - Omar Khan, Communications Manager
+- (Advisor) Danielle Robinson, Executive Director, Code for Science & Society
 
 *Small groups of Core Team and community members will engaged throughout this process to collaborate and provide feedback on the major deliverables in this transition.
