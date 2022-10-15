@@ -1,7 +1,7 @@
 ## Task Force Charter: Workshop Capacity
 
-Approval date: Thursday, 13 October, 2022  
-Completion date: Thursday, 27 October, 2022
+Approval date: Monday, 17 October, 2022  
+Completion date: Friday, 28 October, 2022
 
 ### Context
 We have been experiencing very limited availability of Instructors to teach Centrally-Organised Workshops (COW), and are currently unable
@@ -39,8 +39,7 @@ The remaining deliverables are dependent upon which solution is recommended:
 
 ### Task Force Members
 
-- Alycia Crall, Director of Community
 - Danielle Sieh, Workshop Administrator
 - Karen Word, Director of Instructor Training
 - SherAaron Hurt, Director of Workshops
-- Toby Hodges, Director of Curriculum
+- Toby Hodges, Director of Curriculum (Task Force Lead)
