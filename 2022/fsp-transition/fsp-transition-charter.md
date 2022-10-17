@@ -8,7 +8,7 @@ The Carpentries is a fiscally sponsored project of Community Initiatives. A fisc
 
 The Carpentries has matured in its operations and finances and has determined, with the support of the Executive Council, that it is time to develop a plan to transition out of fiscal sponsorship. 
 
-As requested by the Executive Council Finance Committee, a [3-year transition preparation plan](https://docs.google.com/document/d/1llOjX1exN9Mex3bwoQXuWIMRDsBTfOCdWtZ_e_ZYOZY/edit#) was developed to include activities before, during, and after the transition. A [detailed roadmap](https://app.asana.com/0/1201615963882247/1201615963882247) is being developed in Asana to include responsible parties and deadlines. 
+As requested by the Executive Council Finance Committee, a [3-year transition preparation plan](https://docs.google.com/document/d/1llOjX1exN9Mex3bwoQXuWIMRDsBTfOCdWtZ_e_ZYOZY/edit#) was developed to include activities before, during, and after the transition. A [detailed roadmap](https://app.asana.com/0/1202681954776123/1202681954776123) is being developed in Asana to include responsible parties and deadlines. 
 
 *The term 501(c)3 is in reference to section 501(c)(3) of the US Internal Revenue Code that allows for federal tax exemption of nonprofit organizations.
 
