@@ -30,14 +30,12 @@ The objective of this task force is to plan and implement the roadmap to transit
 
 ### Task Force Members*
 
-
-- Talisha Sutton-Kennedy, Taskforce Chair
-- Kari L. Jordan, Executive Director
+- Kari L. Jordan, Taskforce Chair Executive Director
+- Talisha Sutton-Kennedy, Operations Manager
 - Erin Becker, Associate Director
 - Michael Smith, Executive Council Treasurer
 - John Chodacki, Executive Council Member
-- Amanda Steele, Director of Fundraising
 - Omar Khan, Communications Manager
 - (Advisor) Danielle Robinson, Executive Director, Code for Science & Society
 
-*Small groups of Core Team and community members will engaged throughout this process to collaborate and provide feedback on the major deliverables in this transition.
+*Small groups of Core Team and community members will engage throughout this process to collaborate and provide feedback on the major deliverables in this transition.
