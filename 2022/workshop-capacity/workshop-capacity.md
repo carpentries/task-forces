@@ -11,29 +11,23 @@ workshops, however, it remains to be seen whether these changes will result in i
 they are having the desired effects. 
 
 ### Objective
-The objective of this task force is to evaluate three possible medium-term solutions to the problem of low Instructor availability and 
-provide a recommendation to the Executive Team as to which solution to pursue. The recommended solution should be able to be implemented quickly 
-(immediately to within 2 months) and should be sustainable for up to one year. The three solutions to explore are:
-1. Hiring a new Core Team member for one year who will have a significant portion of their time dedicated to teaching workshops, 
-2. Utilizing Core Team members to teach workshops, and
-3. Reducing our workshop offerings to match Instructor availability and communicating explicitly with Members about reduced capacity. 
+The objective of this task force is to identify a solution to the problem of low Instructor availability and provide a recommendation to the Executive Team. The recommended solution will be implemented quickly (immediately to within 2 months) and should be sustainable for up to one year. Two potential solutions to explore are provided below, however, the task force should brainstorm and weigh the pros and cons of all potential solutions:
+
+- Utilizing Core Team members to teach workshops, and
+- Reducing our workshop offerings to match Instructor availability and communicating explicitly with Members about reduced capacity.
+
 
 ### Deliverables
-1. A pros and cons matrix comparing the three solutions listed above.
+1. A pros and cons matrix comparing potential solutions.
 2. An explicit recommendation as to which solution to pursue. 
 
 The remaining deliverables are dependent upon which solution is recommended:
-1. Hiring a new Core Team member 
-  * A proposed job description showing a rough breakdown of job duties
-  * A communication plan for how we will announce this position to our community, including how we will address potential concerns
-  * An estimate of how many workshops this person will be able to teach monthly
-
-2. Core Team members teaching workshops 
+1. Core Team members teaching workshops 
   * A list of which CT members can teach which lessons
   * An estimate of how much capacity it will add to our workshops for all certified CT Instructors to teach for 5% of their time
   * Some ideas about what other work can be put down to give CT members this capacity
 
-3. Reducing our workshops 
+2. Reducing our workshops 
   * Talking points for how we will communicate this with Members and others requesting workshops
   * An estimate of how many Silver Memberships we can support with our current capacity
 
