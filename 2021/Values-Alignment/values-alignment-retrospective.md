@@ -12,10 +12,10 @@ Over the last year, our use of certain platforms has been a topic of discussion 
 
 In response to these conversations, [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html) approved [a charter for a Values Alignment Task Force](https://github.com/carpentries/task-forces/blob/main/2021/Values-Alignment/Values-Alignment-charter.md). The objective of the task force was to outline a set of recommendations that would be used to develop a Due Diligence process for how to identify whether an organisation or service is acting in accordance with [The Carpentries Core Values](https://carpentries.org/values/).
 
-Following the completion of its work in October 2021, the Task Force delivered a set of [recommendations](/files/pdf/Recommendations-ValuesAlignment-TaskForce.pdf) to [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
+Following the completion of its work in October 2021, the Task Force delivered a set of [recommendations]([/files/pdf/Recommendations-ValuesAlignment-TaskForce.pdf](https://docs.google.com/document/d/1JUn0_bDX57BQneVM6moj5hOoLvFR5UorNMr6XmTk_9c/edit#)) to [The Carpentries Executive Council](https://docs.carpentries.org/topic_folders/governance/executive-council.html).
 
 View the full recommendations:
-	[Recommendations from the Values Alignment Task Force](/files/pdf/Recommendations-ValuesAlignment-TaskForce.pdf)
+	[Recommendations from the Values Alignment Task Force]([/files/pdf/Recommendations-ValuesAlignment-TaskForce.pdf](https://docs.google.com/document/d/1JUn0_bDX57BQneVM6moj5hOoLvFR5UorNMr6XmTk_9c/edit#))
 
 Over the next year, the Core Team’s Business Team will work with the Executive Council to develop a Due Diligence process. The recommendations provided from this task force provide some good ideas and considerations for the process, and we will build on those ideas when carrying these recommendations forward.
 
