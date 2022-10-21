@@ -17,15 +17,16 @@ The objective of this task force is to plan and implement the roadmap to transit
 
 ### Deliverables
 1. Detailed roadmap for transitioning The Carpentries out of fiscal sponsorship to independent, tax-exempt status.    
-2. Identify a firm to support back-office/legal aspects of FSP transition.
-3. Business Plan for The Carpentries.  
-4. Develop targeted fundraising strategy for FSP Transition.
-5. Incorporate The Carpentries as a nonprofit organisation.
-6. Identify Minimum Staffing Requirement for The Carpentries Core Team.
-7. Apply for 501(c)(3) non-profit status.
-8. Determine governance structure for The Carpentries independent organisation.
-9. Transfer all trademarks from CI to The Carpentries
-10. Transfer all employment contracts from CI to The Carpentries
+2. Identify a firm to support the formation and structure of The Carpentries.
+3. Identify a firm to support back-office/legal support for The Carpentries.
+4. Business Plan for The Carpentries.  
+5. Develop targeted fundraising strategy for FSP Transition.
+6. Incorporate The Carpentries as a nonprofit organisation.
+7. Identify Minimum Staffing Requirement for The Carpentries Core Team.
+8. Apply for 501(c)(3) non-profit status.
+9. Determine governance structure for The Carpentries independent organisation.
+10. Transfer all trademarks from CI to The Carpentries
+11. Transfer all employment contracts from CI to The Carpentries
 
 
 ### Task Force Members*
