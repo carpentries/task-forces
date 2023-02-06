@@ -16,17 +16,16 @@ As requested by the Executive Council Finance Committee, a [3-year transition pr
 The objective of this task force is to plan and implement the roadmap to transition The Carpentries out of fiscal sponsorship to independent, tax-exempt status.
 
 ### Deliverables
-1. Detailed roadmap for transitioning The Carpentries out of fiscal sponsorship to independent, tax-exempt status.    
-2. Identify a firm to support the formation and structure of The Carpentries.
-3. Identify a firm to support back-office/legal support for The Carpentries.
-4. Business Plan for The Carpentries.  
-5. Develop targeted fundraising strategy for FSP Transition.
-6. Incorporate The Carpentries as a nonprofit organisation.
-7. Identify Minimum Staffing Requirement for The Carpentries Core Team.
-8. Apply for 501(c)(3) non-profit status.
-9. Determine governance structure for The Carpentries independent organisation.
-10. Transfer all trademarks from CI to The Carpentries
-11. Transfer all employment contracts from CI to The Carpentries
+- [x] Detailed roadmap for transitioning The Carpentries out of fiscal sponsorship to independent, tax-exempt status.    
+- [x] Identify a firm to support the formation and structure of The Carpentries, Inc. 
+- [x] Develop targeted fundraising strategy for FSP Transition.
+- [x] Incorporate The Carpentries, Inc as a nonprofit organisation.
+- Identify a firm to support back-office/legal support for The Carpentries, Inc.
+- Identify Minimum Staffing Requirement for The Carpentries, Inc. Core Team.
+- Determine governance structure for The Carpentries, Inc. independent organisation.
+- Transfer all trademarks from fiscal sponsor (Community Initiaves) to The Carpentries, Inc.
+- Transfer all agreements from fiscal sponsor (Community Initiaves) to The Carpentries, Inc.
+- Transfer all employment contracts from CI to The Carpentries, Inc.
 
 
 ### Task Force Members*
@@ -36,7 +35,7 @@ The objective of this task force is to plan and implement the roadmap to transit
 - Erin Becker, Associate Director
 - Michael Smith, Executive Council Treasurer
 - John Chodacki, Executive Council Member
-- Omar Khan, Communications Manager
+- Omar Khan, Communications Manager (term ended December 2022)
 - (Advisor) Danielle Robinson, Executive Director, Code for Science & Society
 
 *Small groups of Core Team and community members will engage throughout this process to collaborate and provide feedback on the major deliverables in this transition.
