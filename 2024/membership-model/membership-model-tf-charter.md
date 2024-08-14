@@ -47,13 +47,13 @@ __Board of Directors Representative, responsible for:__
 __Task Force Member, responsible for:__
 - [ ]Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
 
-# Operational Procedures
+## Operational Procedures
 - [Guiding Principles for Decision Making at The Carpentries](https://docs.google.com/document/d/13Ozf3jtzB95gFI5zVfMnhWXpExWtQkCZtog7h8FIwiQ/edit#heading=h.o6v3v3qszo7t)
 
-# Meetings
+## Meetings
 Details of task force meetings are provided in the [Membership Model Task Force Strategy](https://docs.google.com/document/d/1cE-KKa_yHlW7tQwatfKP4mbdpbMoijzwO0t93iWHXg8/edit#heading=h.e60towfw575p)
 
-# Members
+## Members
 The members of the task force are:
 - Kari L. Jordan, Chair
 - Sher! Hurt, member
