@@ -36,5 +36,4 @@ This repository is for our Task Force Charters and associated GitHub project boa
 ## 2018 Task Forces
 
 - [Code of Conduct Reporting and Enforcement Guidelines Task Force](https://github.com/carpentries/coc-guidelines-taskforce)
-
 - The Carpentries [Instructor Feedback Report Working Group](https://github.com/carpentries/instructor-feedback)
