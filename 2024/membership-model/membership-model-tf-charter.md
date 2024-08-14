@@ -34,18 +34,19 @@ __The following documents and other outputs from this work will include:__
 The roles within the task force, along with their responsibilities, are provided below.
 
 __Task Force Chair, responsible for:__   
-- [ ]overall leadership of the task force and advancing its aims and objectives  
-- [ ]organising and chairing the task force meetings (e.g., preparing meeting agendas and details and distributing them ahead of meetings)  
-- [ ]keeping the task force documentation up to date   
-- [ ]producing the final deliverables
+- [ ] overall leadership of the task force and advancing its aims and objectives  
+- [ ] organising and chairing the task force meetings (e.g., preparing meeting agendas and details and distributing them ahead of meetings)  
+- [ ] keeping the task force documentation up to date   
+- [ ] producing the final deliverables
   
 __Board of Directors Representative, responsible for:__  
-- [ ]Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks providing governance insight
-- [ ]Member Organisation Representative responsible for:
-- [ ]Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks providing Member insight
+- [ ] Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks providing governance insight
+
+__Member Organisation Representative responsible for:__
+- [ ] Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks providing Member insight
 
 __Task Force Member, responsible for:__
-- [ ]Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
+- [ ] Attending the task force meetings, participating in discussions and decisions of the task force, and contributing to the tasks
 
 ## Operational Procedures
 - [Guiding Principles for Decision Making at The Carpentries](https://docs.google.com/document/d/13Ozf3jtzB95gFI5zVfMnhWXpExWtQkCZtog7h8FIwiQ/edit#heading=h.o6v3v3qszo7t)
