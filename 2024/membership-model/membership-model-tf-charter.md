@@ -3,7 +3,7 @@
 ### Status:
 ### Completion date (planned): 
 
-# Problem Statement
+## Problem Statement
 The Carpentries has been operating a Membership model to empower institutions and individuals to build capacity in computational skills. In 2019, a Member organisation survey revealed critical insights into the primary goals and aspirations of Carpentries members, numbering 55 at the time. The data highlighted key objectives such as training Instructors, fostering local communities around computational training, supporting Carpentries' sustainability, and building capacity for self-organized workshops. However, five years later, despite maintaining relevance, The Carpentries has observed fluctuations in Membership renewal rates and utilization of benefits.
 
 Moreover, Members have expressed evolving needs and desires, seeking resources to enhance community sustainability, inclusion of curriculum development training, and support for workshop attendees post-training. Additionally, there's a growing interest in initiatives that foster inclusivity, such as recruiting and supporting underrepresented groups, facilitating cross-cultural collaborations, and engaging under-resourced communities.
