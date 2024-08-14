@@ -10,7 +10,7 @@ Moreover, Members have expressed evolving needs and desires, seeking resources t
 
 In response to these findings and ongoing discussions at the 2024 Board of Directors retreat, there's a pressing need to reassess The Carpentries' membership model. Key questions have been raised regarding aligning services with members' needs, defining success, and balancing revenue generation and community engagement. Moreover, recommendations have been proposed to introduce Collaborative Lesson Development  Training, ensure a non-transactional model, expand benefits, and align Membership offerings with The Carpentries' core values.
 
-# Objective
+## Objective
 This task force aims to revamp The Carpentries' Membership model by convening stakeholders to explore the following questions:
 - Are the current Membership offerings aligned with the evolving needs of Carpentries Member organizations?
 - How can success be defined in the context of the Carpentries Membership model, balancing revenue generation and community engagement?
