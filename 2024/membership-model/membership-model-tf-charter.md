@@ -22,8 +22,8 @@ This task force aims to revamp The Carpentries' Membership model by convening st
 # Deliverables
 __The following documents and other outputs from this work will include:__  
 - [ ] A Member organisation survey aimed to identify the current needs of Carpentries member organizations. Success metrics include:  
-   -  [ ]Goal response rate: XX%
-   -  [ ]Goal # Member organization responses outside US/UK: # 
+   -  [ ] Goal response rate: XX%
+   -  [ ] Goal # Member organization responses outside US/UK: # 
 - [ ] Analysis of Member organisation survey data.
 - [ ] A recommendation for a new Membership model.
 - [ ] A project plan for piloting the revamped Membership model.
