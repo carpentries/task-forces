@@ -1,7 +1,7 @@
 # Task Force Charter: Exploring The Carpentries Membership Model
 ### Approval date:
 ### Status:
-### Completion date (planned): 
+### Completion date (planned): February 28, 2025
 
 ## Problem Statement
 The Carpentries has been operating a Membership model to empower institutions and individuals to build capacity in computational skills. In 2019, a Member organisation survey revealed critical insights into the primary goals and aspirations of Carpentries members, numbering 55 at the time. The data highlighted key objectives such as training Instructors, fostering local communities around computational training, supporting Carpentries' sustainability, and building capacity for self-organized workshops. However, five years later, despite maintaining relevance, The Carpentries has observed fluctuations in Membership renewal rates and utilization of benefits.
