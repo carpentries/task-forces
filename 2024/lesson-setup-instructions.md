@@ -1,6 +1,6 @@
 # Task Force Charter: Lesson Setup Instructions Task Force
 
-Approval date: 
+Approval date: 14 August 2024
 Status: active
 Completion date: 31 December 2024
 
