@@ -1,6 +1,6 @@
 # Task Force Charter: Exploring The Carpentries Membership Model
-### Approval date:
-### Status:
+### Approval date: August 14, 2024
+### Status: Active
 ### Completion date (planned): February 28, 2025
 
 ## Problem Statement
@@ -61,7 +61,6 @@ The members of the task force are:
 - Angelique Trusler, member
 - Toby Hodges, member
 - Rob Davey, member
-- Board Member (TBD), member
+- Pao Corrales, member
 - Member Organization (University of Minnesota), Cody Hennesy
 - Member Organization (University of California), Steve Diggs
-- Member Organization (TBD), member
