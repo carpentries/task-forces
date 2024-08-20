@@ -52,8 +52,12 @@ If this fallback to majority is used, the method of decision-making and a record
 Meeting dates, times, connection info all TBC
 
 ### Core Team Liasion
-1. Toby Hodges, Director of Curriculum
-2. Rob Davey, Director of Technology
+1. Toby Hodges, Director of Curriculum, Task Force Chair
+2. Rob Davey, Director of Technology, Task Force Co-chair
 
 ### Members
-Other members TBC
+* Matt Fisher
+* Mpilo Khumalo
+* Nathaniel Porter, Maintainer Community Lead
+* Jennifer Stubbs
+* Adam Taranto
