@@ -10,6 +10,7 @@ Offer customisable credit packages that enable members to tailor benefits to the
 
 ## Recommendation 3: Service Options for Individuals and Institutions
 Introduce service options for individuals and institutions. Provide a range of services —some available for free, others as a la carte or optional add-ons within the new model. This layered access structure encourages broad community participation and supports those seeking various services, such as workshop access outside of institutional membership. Examples of service options include:
+
 - Individual seats for core Carpentries training programs.  
 - Members-only skill-up sessions on topics like GitHub, community building, and collaboration.
 - Advanced training modules on online teaching, project-based learning, and community equity.
@@ -24,7 +25,7 @@ Implement referral discounts where referring and referred organisations receive 
 ## Recommendation 5: Pricing for Revenue Generation and Accessibility
 Set a competitive, income-tiered pricing model tailored to ensure The Carpentries' financial sustainability while promoting equitable access. Structure fees to cover essential operational costs, including staff salaries and benefits, infrastructure upkeep, program growth, and enhanced support for community initiatives. Engage a professional to develop this pricing framework, aligning it with market rates, World Bank income classifications, and the growth objectives established by The Carpentries Board of Directors.
 
-##Recommendation 6: Commitment Packages with Added Benefits
+## Recommendation 6: Commitment Packages with Added Benefits
 Develop a comprehensive 'Unlimited' package for high-engagement member organisations seeking full-service access, promoting deeper integration with The Carpentries. For multi-year institutions offer incremental benefits such as exclusive professional development, specialised services, and additional credits, providing substantial added value for long-term commitments.
 
 
