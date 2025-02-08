@@ -1,7 +1,7 @@
 ## Task Force Charter: Fiscal Sponsorship Transition Taskforce
 
 Approval date: 19 July 2022 <br/>
-Completion date: 
+Completion date: 1 February 2024 <br/>
 
 ### Context
 The Carpentries is a fiscally sponsored project of Community Initiatives. A fiscal sponsor is a unique type of nonprofit organization that shares its 501(c)(3)* status with unincorporated nonprofit projects. This allows projects to receive grants and tax-exempt donations from government, foundations, and individuals. Community Initiatives also provides back office services including non-profit compliance, financial management, risk management and insurance, grant and donation management, and payroll and benefits services.
