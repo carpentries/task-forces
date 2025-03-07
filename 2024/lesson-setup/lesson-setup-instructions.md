@@ -2,7 +2,7 @@
 
 Approval date: 14 August 2024
 Status: active
-Completion date: 31 December 2024
+Completion date: TBD
 
 ## Description/Problem Statement
 Most Carpentries lessons require some technical setup before they can be followed (software installation, data downloads, etc). 
